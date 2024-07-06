@@ -3,3 +3,11 @@ Voici un bot qui génère des items aléatoirement que vous pouvez configurer po
 
 
 Here is a bot that generates items randomly, which you can configure for Minecraft. This bot is particularly suited for "shop" type servers if you want to reward players with items every 24 hours via the /gen command!
+
+
+
+
+Me MP sur Discord en cas de problème. : kn2xk5lvoa
+
+
+DM me on Discord if you have any problems. : kn2xk5lvoa
